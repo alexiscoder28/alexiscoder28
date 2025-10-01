@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @alexiscoder28
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jiteshwar Bhagat
+- 👀 I’m interested in creating web apps and softwares
+- 🌱 I’m currently learning Node.js and databses
+- 💞️ I’m looking to collaborate on big projects
+- 📫 How to reach me jiteshwarbhagat6@gmail.com
 
-<!---
-alexiscoder28/alexiscoder28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
