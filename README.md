@@ -10,4 +10,4 @@ Frameworks - React, Next.js, Express.js
 Database - Neon DB(SQL) , MongoDB(No SQL)
 
 extra stack - clerk Auth, figma, shadcn, UI designs.
-](https://to-do-list-app-using-react-vite-exp.vercel.app/)
+
