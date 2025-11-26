@@ -10,4 +10,4 @@ Frameworks - React, Next.js, Express.js
 Database - Neon DB(SQL) , MongoDB(No SQL)
 
           clerk Auth, figma, shadcn, UI designs.
-
+Here is the link to my website i am still working on and managing - sportschronicals.com
