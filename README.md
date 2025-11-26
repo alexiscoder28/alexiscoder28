@@ -6,8 +6,8 @@
 
 Languages - Javacsipt,Python,Typescript
 Frameworks - React, Next.js, Express.js
-              Tailwind.css,xml,HTML
+              Tailwind.css, HTML
 Database - Neon DB(SQL) , MongoDB(No SQL)
 
-extra stack - clerk Auth, figma, shadcn, UI designs.
+          clerk Auth, figma, shadcn, UI designs.
 
